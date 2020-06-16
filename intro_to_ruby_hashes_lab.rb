@@ -18,7 +18,7 @@ def monopoly_with_second_tier
 			:pieces=>4
 			:name=> Hash.new
 			:rent_in_dollars=> Hash.new
-			
+
 		}
 	}
 
